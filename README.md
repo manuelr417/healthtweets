@@ -48,7 +48,7 @@ developer account. The specific steps are as follows:
 4. Modify the contents of credentials-template.json by adding your  credentials for your Twitter developer account.
 5. Run the as follows: 
 
-... getFullTweets.py <input file> <output file>
+. . getFullTweets.py <input file> <output file>
 
 ## Licenses 
 
