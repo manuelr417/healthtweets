@@ -48,7 +48,7 @@ developer account. The specific steps are as follows:
 4. Modify the contents of credentials-template.json by adding your  credentials for your Twitter developer account.
 5. Run the as follows: 
 
-   python getFullTweets.py <input file> <output file>
+   python getFullTweets.py \<input file\> \<output file\>
   
    Parameters:
    * input file - file containing the tweet ids and labels
@@ -57,3 +57,5 @@ developer account. The specific steps are as follows:
 
 ## Licenses 
 
+The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to collect the tweets is licensed under the 
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
