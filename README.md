@@ -48,7 +48,12 @@ developer account. The specific steps are as follows:
 4. Modify the contents of credentials-template.json by adding your  credentials for your Twitter developer account.
 5. Run the as follows: 
 
-. . getFullTweets.py <input file> <output file>
+   python getFullTweets.py <input file> <output file>
+  
+   Parameters:
+   * input file - file containing the tweet ids and labels
+   * output_file - file cotaining the full text and metadata of each tweet. There is one record per line.
+   
 
 ## Licenses 
 
