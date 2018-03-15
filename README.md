@@ -38,7 +38,13 @@ There are two possible labels:
 Each tweet can labeled as belonging to one these classes. 
 
 ## How to get the data
-In order to get the full text and metadata for each tweet you can use the 
+In order to get the full text and metadata for each tweet you can use the program getFullTweets.py, which is 
+a Python 3 application that we have included in this repo. You will also need to sign up for a free Twitter
+developer account. The specific steps are as follows:
+
+1. Clone this repo 
+2. Sign up for a free Twitter developer account
+3. Modify the 
 
 ## Licenses 
 
