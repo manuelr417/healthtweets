@@ -44,7 +44,7 @@ developer account. The specific steps are as follows:
 
 1. Clone this repo 
 2. Sign up for a free Twitter developer account
-3. Modify the 
+3. Modify the file 
 
 ## Licenses 
 
