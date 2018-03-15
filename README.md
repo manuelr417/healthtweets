@@ -44,7 +44,11 @@ developer account. The specific steps are as follows:
 
 1. Clone this repo 
 2. Sign up for a free Twitter developer account
-3. Modify the file 
+3. Rename the file credentials-template.json as credentials.json
+4. Modify the contents of credentials-template.json by adding your  credentials for your Twitter developer account.
+5. Run the as follows: 
+
+... getFullTweets.py <input file> <output file>
 
 ## Licenses 
 
