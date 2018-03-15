@@ -54,6 +54,16 @@ developer account. The specific steps are as follows:
    * input file - file containing the tweet ids and labels
    * output_file - file cotaining the full text and metadata of each tweet. There is one record per line.
    
+## Acknowledgements
+This work was completed by a set of graduate and undergraduate students at the University of Puerto Rico, Mayaguez:  
+1. Andres Hernandez
+2. Jady Urbina
+3. Cristian Garzon
+4. Danny Villanueva
+5. Luis G. Rivera
+6. Juan Cabrera
+
+Research reported in this publication was supported by the National Library of Medicine, of the National Institutes of Health under award number R15LM012275. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
 
 ## Licenses 
 
